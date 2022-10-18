@@ -1,0 +1,12 @@
+.map{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2em;
+    flex-direction: column;
+}
+.map h2{
+    color:steelblue;
+    margin: 1em;
+    border-bottom: 1px solid gray;
+}

@@ -1,0 +1,18 @@
+.match{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 2em;
+    line-height: 3em;
+    font-weight: 900;
+    background-color:#EAE6E3 ;
+    margin: 2em;
+    border-radius: 10px;
+    box-shadow:0.25em 0.25em 0.75em 0.25em rgba(0,0,0,0.3) ;
+}
+.match h3{
+    color: steelblue;
+    text-align: center;
+    border-bottom: solid 1px rgb(0,0,0,0.1);
+}
